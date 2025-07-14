@@ -1,0 +1,6 @@
+openai 
+langsmith 
+promptlayer
+fastapi 
+uvicorn
+python-dotenv
